@@ -13,5 +13,5 @@ Specified Jenkins version, example: 2.113
   
   Run your Jenkins server at: http://<your server>:8080
   Setup the Jenkins for the first use
-  Note: admin password is printed in console log
+## Note: admin password is printed in console log
   
